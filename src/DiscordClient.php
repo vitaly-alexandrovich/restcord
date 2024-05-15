@@ -399,7 +399,7 @@ class DiscordClient
      */
     private function getVersion()
     {
-        return trim(file_get_contents(__DIR__.'/../VERSION'));
+        return '0.0.1';
     }
 
     /**
