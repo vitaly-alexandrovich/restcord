@@ -1,7 +1,8 @@
 {
-    "name":         "restcord/restcord",
+    "name":         "vitaly-alexandrovich/restcord",
     "description":  "REST Library for the Discord API",
     "type":         "library",
+    "version":      "0.0.1",
     "require":      {
         "php":                        "^7.3|^8.0",
         "guzzlehttp/guzzle":          "^7.0",
@@ -25,6 +26,10 @@
         {
             "name":  "Aaron Scherer",
             "email": "aequasi@gmail.com"
+        },
+        {
+            "name":  "Vitaly Dubovik",
+            "email": "i@vdubovik.ru"
         }
     ],
     "require-dev":  {
